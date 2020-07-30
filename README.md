@@ -1,7 +1,7 @@
 # Stowage
-Simulator that runs several Algorithms on several Travels and outputs their result
+A simulator that runs several Algorithms on several Travels and outputs their result
 
-An exercise given in the course Advanced Topics In Programing.
+An exercise that was given in the course Advanced Topics In Programing.
 
 Guidelines:
 
@@ -28,11 +28,11 @@ In case -output is missing:
 
 generate the simulation.results and errors under the run directory / current working directory.
 Create a crane instructions folder per <algorithm, travel> pair, under the run directory / current working directory, according to crane instruction file location rules. Those folders shall host the crane_instrucitons files associated with the “pair run”.
-The travel folder will contain one or more sub folders, each for every Travel. 
+The travel folder will contain one or more subfolders, each for every Travel. 
 
 In case -num_threads is missing:
 -num_threads = 1
 
 A missing -travel_path argument should result in a fatal error, no algorithm is to be run in this case.
 
-More detailed instuctions on README.pdf file.
+More detailed instructions on README.pdf file.
