@@ -20,7 +20,7 @@ In ANY order.
 
 Where: X = travel path, Y = algorithms .so files folder path, Z = output files folder path, N = number of threads
 
--algorithm_path and -output -num_threads arguments are optional.
+-algorithm_path, -output and -num_threads arguments are optional.
 
 In case -algorithm_path is missing, look for the algorithm .so files in the run directory / current working directory.
 
